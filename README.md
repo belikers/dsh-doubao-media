@@ -100,6 +100,10 @@ node test/host-smoke.mjs
 - 图片生成是同步请求，2K / 4K 大图可能接近 1 分钟。
 - 生成的 URL 由方舟返回，24 小时后失效；插件会立刻下载到本地，所以不受影响。
 
+## License
+
+[MIT](LICENSE) © 2026 belikers
+
 ---
 
 **English**: A DeepSeek Harness plugin that adds a Doubao (Volcengine Ark) image/video generation panel under the composer, a settings page for the API key, and `doubao_image` / `doubao_video` agent tools. Works with both pay-as-you-go (`/api/v3`) and Agent Plan (`/api/plan/v3`) endpoints. Install the bundle into your DSH profile and restart the app once.
