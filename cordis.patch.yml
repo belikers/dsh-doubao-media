@@ -1,0 +1,14 @@
+# 本包的 Loader 补丁：插入一条插件行。
+#
+# 可选配置（整段替换，按需保留）：
+#   baseUrl: https://ark.cn-beijing.volces.com/api/v3          # 默认；Agent Plan 用 /api/plan/v3，
+#                                                              # 插件会在鉴权失败时自动切换到另一入口
+#   imageModel / videoModel: 默认模型 ID 或 Endpoint ID
+#   imageSize: 1K / 1.5K / 2K / 4K
+#   outputDir: 输出目录（默认 <会话工作目录>/doubao）
+#   apiKey: 一般不用填，推荐在「设置 → 豆包创作」里保存
+- insert:
+    - id: doubao-media
+      name: dsh-doubao-media
+      config:
+        imageSize: 2K

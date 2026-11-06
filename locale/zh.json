@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "豆包创作",
+    "description": "接入火山方舟豆包 Seedream / Seedance：在输入框下方生成图片和短视频，并向 Agent 提供 doubao_image、doubao_video 工具。"
+  }
+}

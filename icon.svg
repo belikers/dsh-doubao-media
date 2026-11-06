@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Doubao Studio">
+  <defs>
+    <linearGradient id="dbao-icon-fill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3f5bff"/>
+      <stop offset="1" stop-color="#8a3cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#dbao-icon-fill)"/>
+  <path d="M25 10c1.9 8.4 4.7 11.2 13.1 13.1C29.7 25.1 26.9 27.9 25 36.3c-1.9-8.4-4.7-11.2-13.1-13.1C20.3 21.2 23.1 18.4 25 10Z" fill="#ffffff"/>
+  <path d="M40.5 31c1 4.6 2.6 6.2 7.2 7.2-4.6 1-6.2 2.6-7.2 7.2-1-4.6-2.6-6.2-7.2-7.2 4.6-1 6.2-2.6 7.2-7.2Z" fill="#ffffff" opacity="0.92"/>
+  <path d="M20 38.5c0-1.7 1.8-2.8 3.3-1.9l12.4 7.2c1.5.9 1.5 3 0 3.9l-12.4 7.1c-1.5.9-3.3-.2-3.3-1.9V38.5Z" fill="#ffffff" opacity="0.95"/>
+</svg>
